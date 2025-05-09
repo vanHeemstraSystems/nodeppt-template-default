@@ -1,0 +1,20 @@
+{
+  "name": "nodeppt-template-default",
+  "version": "1.0.2",
+  "description": "nodeppt template",
+  "main": "meta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanHeemstraSystems/nodeppt-template-default.git"
+  },
+  "keywords": [],
+  "author": "vanHeemstraSystems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanHeemstraSystems/nodeppt-template-default/issues"
+  },
+  "homepage": "https://github.com/vanHeemstraSystems/nodeppt-template-default#readme"
+}
